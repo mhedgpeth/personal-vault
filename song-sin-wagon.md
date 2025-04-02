@@ -5,7 +5,7 @@
 Dixie Chicks
 Cap 3 Key of D (F)
 BPM 144
-Practicing at _
+Practicing at 112
 
 ## Form
 

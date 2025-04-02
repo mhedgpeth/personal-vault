@@ -1,5 +1,7 @@
 # country band
 
+First practice: [[song-chattahoochee]], [[song-neon-moon]], [[song-long-time-gone]], [[song-sin-wagon]]
+
 ## Annie
 
 [[song-long-time-gone]]
