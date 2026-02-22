@@ -39,6 +39,7 @@ Top three goals right now:
 **Goal:** Create an EPK so we can professionally pitch to venues that require one.
 
 An EPK typically includes:
+
 - Band bio / story
 - Photos (promo shots, live performance)
 - Music samples or video clips
@@ -57,6 +58,9 @@ An EPK typically includes:
 ## Art Direction
 
 **Goal:** songs selected, practiced that will fit the band together in a single artistic outcome, that gets us bookings.
+
+Annie and Michael have been married for 25 years.
+Marti and Cheyenne have been married for 15 years.
 
 **Problems:**
 

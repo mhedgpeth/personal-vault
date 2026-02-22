@@ -110,7 +110,12 @@ The band didn't like this venue, we don't want to do it anymore.
 
 These are promising venues with good info — we're just limiting WIP before reaching out.
 
-**Jamestown Mercantile** - Jamestown, CO. [jamestownmercantile.com](https://www.jamestownmercantile.com/calendar). Small mountain cafe, intimate/rustic vibe. Open mic on Wednesdays. People at the Outback told us about this. Contact: (303) 442-5847, jamestownmercantilecafe@gmail.com.
+### Jamestown Mercantile, Jamestown, CO
+
+Website: [jamestownmercantile.com](https://www.jamestownmercantile.com/calendar). Small mountain cafe, intimate/rustic vibe. Open mic on Wednesdays. People at the Outback told us about this. Contact: (303) 442-5847, jamestownmercantilecafe@gmail.com.
+Next Action:
+
+- [ ] Go to open mic night Wednesday March 11 with duo set.
 
 **Spirits Music Hall** - Johnstown, CO. [spiritsmusichall.com](https://spiritsmusichall.com/). Gothic-themed tavern with BBQ and craft cocktails. Books country/rockabilly explicitly. Contact: (970) 660-8527, booking@spiritsmusichall.com.
 
