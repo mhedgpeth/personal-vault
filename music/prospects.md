@@ -62,6 +62,10 @@ These are promising venues with good info — we're just limiting WIP before rea
 
 **Bootstrap Brewing** - Longmont, CO. [bootstrapbrewing.com](https://bootstrapbrewing.com/). Live music Fri & Sat 6-9pm, no cover. Community-focused, casual. Contact: 720-438-8488.
 
+**The Bricks on Main** - Longmont, CO. [bricksonmain.com](https://www.bricksonmain.com). 471 Main St. Live music, open mics, karaoke. Community-focused bar/bistro, casual vibe. Instagram: @thestage_bricks.
+
+**Oscar Blues (Longmont)** - Longmont, CO. [oskarbluesfooderies.com](https://www.oskarbluesfooderies.com/longmont-happenings). Live music nearly every night — blues jams, open mic, weekend bands. Has hosted country acts. Dog-friendly, all-ages.
+
 ### Possible
 
 These are on the radar but something is unclear (limited booking info, vague fit, etc.).
@@ -82,6 +86,12 @@ These are on the radar but something is unclear (limited booking info, vague fit
 
 **Odyssey Beerworks** - Arvada, CO. [odysseybeerwerks.com](https://odysseybeerwerks.com/). Brewery taproom, hosts live music but programming unclear. 21+ only. Contact: 303-421-0772, rebecca@odysseybeerworks.com.
 
+**Oscar Blues (Lyons)** - Lyons, CO. [oskarbluesfooderies.com](https://www.oskarbluesfooderies.com/lyons-happenings). 303 Main St. Dedicated music room, ~100 cap. Weekly live music but bluegrass/blues heavy. Contact: (303) 823-6685.
+
+**Oscar Blues (Denver)** - Denver, CO. [theblackbuzzard.com](https://www.theblackbuzzard.com/). "The Black Buzzard" — 330-cap music venue at 1624 Market St. Booked by Bandwagon Presents. Americana/blues/rock/folk.
+
+**New Belgium Brewery** - Fort Collins, CO. [newbelgium.com](https://www.newbelgium.com/visit/fort-collins/). 500 Linden St. Summer concert series through Washington's Presents. Casual, community-focused. Borderline on "south Fort Collins" constraint. Contact: 970-221-0524.
+
 ### Not Ready
 
 Good venues but we need to grow before approaching these.
@@ -97,35 +107,6 @@ Good venues but we need to grow before approaching these.
 ### Migrating
 
 These are prospects from Elliot and Cheyenne being sorted into categories above.
-
-
-**Illegal Pete's (Pearl)**
-
-**The Press (Steamboat)** - 3 hour drive away. Contact: <Ed@thepresssteamboat.com>
-
-**The Bricks on Main** - Longmont, CO. [bricksonmain.com](https://www.bricksonmain.com). Live music venue with bar/bistro.
-
-**Belles and Boots** - Denver, CO. [bellesandbootsco.com](https://www.bellesandbootsco.com/). Mostly DJ/dance, may not book live bands.
-
-**The Flats Beer Garden** - Golden, CO.
-
-**The Spotted James**
-
-**Z2Ent** - Replied.
-
-**Oscar Blues (Longmont)**
-
-**Oscar Blues (Lyons)**
-
-**Oscar Blues (Denver)**
-
-**New Belgium Brewery**
-
-**Denver Broncos**
-
-**Meow Wolf**
-
-**Ball Arena**
 
 
 ### Cities/Municipal
@@ -173,3 +154,5 @@ Good venues but outside our location constraints.
 **Viewhouse Centennial** - Centennial, CO. [viewhouse.com](https://www.viewhouse.com/events-centennial). 20,000+ sq ft with patio and bandstand. Has a dedicated "Country on the Courtyard" Thu night series and Country & Bluegrass Concert Series — perfect genre fit. Contact: (303) 790-8440, hello@viewhouse.com.
 
 **Wild Goose Saloon** - Parker, CO. [wildgoosesaloon.com](https://www.wildgoosesaloon.com). Premier live music venue with line dancing, BBQ, whiskey. Books tributes and diverse acts — good country fit. Contact: (720) 766-8449, bookings@wildgooseparker.com.
+
+**The Press** - Steamboat Springs, CO. [thepresssteamboat.com](https://thepresssteamboat.com/). "Austin club in the mountains" vibe, active live music venue. 3-hour drive. Contact: (970) 879-1292, Ed@thepresssteamboat.com.
