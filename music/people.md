@@ -11,9 +11,11 @@ Friends in High Places
 - Elliot - bass
 - Will - drums
 
-## Art Direction
+## Roles
 
-Michael - carries the band, main male vocalist
-Annie - knockout punch, great Adelle-like vocalist
-Marti - humor, performance, has a history in drama
-Cheyenne - history in cover bands, funny, great performer, keeps the band going
+Annie and Michael have been married for 25 years. Marti and Cheyenne have been married for 15 years.
+
+- Michael — carries the band, main male vocalist
+- Annie — knockout punch, great Adelle-like vocalist
+- Marti — humor, performance, has a history in drama
+- Cheyenne — history in cover bands, funny, great performer, keeps the band going

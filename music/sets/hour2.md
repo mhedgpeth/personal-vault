@@ -1,4 +1,6 @@
-# Friends in High Places: Hour 2
+# Friends in High Places: Hour 2 (Inactive)
+
+Full-band set used for the Punch Bowl Social gigs (Nov & Dec 2025). Not active — the [duo set](./duo.md) is the current focus.
 
 mi  Aint Goin' Down   G
 mi  Shameless      G

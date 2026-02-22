@@ -14,10 +14,10 @@ Goal: High fidelity (FLAC/lossless) source files for best stem separation in Moi
 
 ### Setup (~$25-30 one-time, ~$10/yr ongoing)
 
-1. **Usenet block account:** [Usenet.Farm](https://usenet.farm) — 500GB for ~$17, never expires. Cheapest per-GB option.
-2. **NZB indexer:** [NZBGeek](https://nzbgeek.info) — $12/yr. No invite needed, good Lidarr integration, active community.
-3. **Docker Compose** with [Lidarr](https://lidarr.audio) + [SABnzbd](https://sabnzbd.org) on Mac. Config stored in iCloud for backup. Compose file lives outside this repo.
-4. **Import** downloaded FLAC files into Moises. Use Hi-Fi stem separation (included with Pro).
+- [x] **Usenet block account:** [Usenet.Farm](https://usenet.farm) — 10GB trial active. 500GB block ~$17 when ready.
+- [ ] **NZB indexer:** [NZBGeek](https://nzbgeek.info) — $12/yr. No invite needed, good Lidarr integration, active community.
+- [ ] **Docker Compose** with [Lidarr](https://lidarr.audio) + [SABnzbd](https://sabnzbd.org) on Mac. Config stored in iCloud for backup. Compose file lives outside this repo.
+- [ ] **Import** downloaded FLAC files into Moises. Use Hi-Fi stem separation (included with Pro).
 
 ### Workflow
 
@@ -43,10 +43,3 @@ From [duo set](./sets/duo.md):
 - [ ] Islands in the Stream (Dolly Parton & Kenny Rogers)
 - [ ] Friends in Low Places (Garth Brooks)
 
-## Songs
-
-- Friends in Low Places (Michael)
-- Strawberry Wine (Annie)
-- Be My Baby Tonight (Michael vocals?)
-- Neon Moon (Michael vocals?)
-- Chattahoochee (Michael)

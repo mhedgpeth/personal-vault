@@ -3,6 +3,10 @@
 Friends in High Places
 contact: <Fihpband@gmail.com>
 
+## Urgent
+
+- [ ] **Bands on the Bricks deadline: Feb 23, 2026!** Submit band application at [boulderdowntown.com](https://boulderdowntown.com/events/submissions/band-submissions). See [prospects](./prospects.md) for details.
+
 ## Goals
 
 Top three goals right now:
@@ -57,14 +61,11 @@ An EPK typically includes:
 
 ## Art Direction
 
-**Goal:** songs selected, practiced that will fit the band together in a single artistic outcome, that gets us bookings.
-
-Annie and Michael have been married for 25 years.
-Marti and Cheyenne have been married for 15 years.
+**Goal:** songs selected, practiced that will fit the band together in a single artistic outcome, that gets us bookings. See [people](./people.md) for individual roles.
 
 **Problems:**
 
 1. Annie feels left out, she doesn't sing until 45 minutes in, her Adelle-like voice in the keys she wants doesn't get premiered enough.
 2. Marti doesn't have direction, ends up using her drama background to go off script and be funny, it annoys Annie.
 3. Cheyenne was the frontrunner of his 1980s cover band, but that was a higher vocal register and this isn't.
-4. Annie and Michael want the vibe of: come for the dancing, good wholesome time. Cheynene and Marti want: come for a good time, we're going to be the biggest fools of them all to get you to loosen up. These things aren't aligned.
+4. Annie and Michael want the vibe of: come for the dancing, good wholesome time. Cheyenne and Marti want: come for a good time, we're going to be the biggest fools of them all to get you to loosen up. These things aren't aligned.
