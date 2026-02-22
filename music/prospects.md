@@ -22,7 +22,15 @@ Next Action:
 Website: [boulderdowntown.com](https://boulderdowntown.com/do/bands-on-the-bricks). Summer Wednesday concert series on Pearl Street Mall, June-July. Covers encouraged for headliners.
 Next Action:
 
-- [ ] Submit band application at [boulderdowntown.com/events/submissions/band-submissions](https://boulderdowntown.com/events/submissions/band-submissions). 2026 submissions are open now.
+- [ ] **URGENT: Deadline is Feb 23, 2026!** Submit band application at [boulderdowntown.com/events/submissions/band-submissions](https://boulderdowntown.com/events/submissions/band-submissions).
+
+### Arts in the Park, Boulder, CO
+
+Website: [bouldercolorado.gov/arts-park](https://bouldercolorado.gov/arts-park). Free performances at the Glen Huntington Bandshell. City of Boulder Parks & Rec program. 2025 season was June 7 - Aug 3; 2026 dates TBA. Applications accepted 30 days before desired date, first-come first-served. Some funding support available; permit fees waived.
+Contact: Rosa Wright, wrightr@bouldercolorado.gov.
+Next Action:
+
+- [ ] Email Rosa Wright (wrightr@bouldercolorado.gov) to ask about 2026 season dates and application process.
 
 ### Wibby Brewing, Longmont, CO
 
@@ -44,6 +52,21 @@ Website: [velvetelklounge.com](https://www.velvetelklounge.com/). Intimate live 
 Next Action:
 
 - [ ] Reach out through website about booking.
+
+### City of Longmont, CO
+
+Multiple city-affiliated music opportunities, all relationship-based (no public application forms).
+
+**Longmont Museum Summer Concert Series** — Free outdoor concerts in the Museum courtyard, June-July. Also year-round indoor shows at the 250-seat Stewart Auditorium. [longmontcolorado.gov/museum](https://longmontcolorado.gov/museum/events-performances/summer-concert-series/).
+
+**Downtown Summer Concerts** — Free block-party format at 4th Ave & Kimbark, monthly in summer (4:30-9pm). Two regional bands per night. Run by LDDA, Creative District, Firehouse Art Center, and DSP Events. [downtownlongmont.com](https://www.downtownlongmont.com/events/downtown-summer-concerts). Also has a "Music Around Town" sub-series.
+
+**Other events:** Cinco de Mayo Celebration, Music at McIntosh Lake, Noche de Museo.
+
+Key Contact: Justin Veach, Curator of Public Programs / Manager of Stewart Auditorium. Bookings are curated through him.
+Next Action:
+
+- [ ] Reach out to Justin Veach to introduce the band and ask about 2026 summer concert series and other opportunities.
 
 ## Past
 
@@ -111,15 +134,11 @@ These are prospects from Elliot and Cheyenne being sorted into categories above.
 
 ### Cities/Municipal
 
-**City of Longmont** - Contact: Justin Veach.
-
 **City of Loveland**
 
 **City of Louisville**
 
 **City of Berthoud**
-
-**City of Boulder**
 
 **City of Breck**
 
