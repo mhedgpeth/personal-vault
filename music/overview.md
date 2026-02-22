@@ -25,6 +25,12 @@ Top three goals right now:
 
 **Goal:** gig two times a month, minimum of $200 each gig. Regularly playing.
 
+### Growth Plan
+
+1. **Crawl: $200-$800/gig** — Breweries, bars, open mics. Goal: consistency and polish.
+2. **Walk: $800-$2,500/gig** — City concerts, mid-size venues, some corporate/weddings. Need EPK here.
+3. **Run: $2,500-$6,000/gig** — Festivals, larger venues, corporate/wedding/private.
+
 - [x] Discover minimum for people getting paid ($200 total, $100 each to Will and Elliott, everyone else is willing to play for free right now)
 - [ ] Contact Outback Saloon
 

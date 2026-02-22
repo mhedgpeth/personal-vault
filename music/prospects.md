@@ -68,6 +68,37 @@ Next Action:
 
 - [ ] Reach out to Justin Veach to introduce the band and ask about 2026 summer concert series and other opportunities.
 
+### City of Louisville, CO
+
+Three city-affiliated music opportunities. No public application forms — direct outreach required.
+
+**Summer Concerts in the Park** — Free, Thu evenings June-July at Louisville Community Park (955 Bella Vista Dr). Booked by the Cultural Advisory Board. Contact: (303) 335-4772. [louisvilleco.gov](https://www.louisvilleco.gov/exploring-louisville/arts-events/events/summer-concerts-in-the-park).
+
+**Downtown Street Faire** — Fri nights June-Aug at Steinbaugh Pavilion (824 Front St). Highest profile — has booked national acts. Run by the Downtown Business Association (volunteer nonprofit). Submit via [downtownlouisvilleco.com/contact](https://www.downtownlouisvilleco.com/contact/).
+
+**Pints in the Park** — Annual craft beer festival (Aug 29, 2026), multiple live music stages. Run by Louisville Chamber of Commerce. [louisvillechamber.com/pints-in-the-park](https://www.louisvillechamber.com/pints-in-the-park/).
+
+Next Action:
+
+- [ ] Submit band for Street Faire consideration via [downtownlouisvilleco.com/contact](https://www.downtownlouisvilleco.com/contact/).
+- [ ] Call Cultural Advisory Board at (303) 335-4772 about Summer Concerts in the Park.
+- [ ] Contact Louisville Chamber about Pints in the Park performance spots.
+
+### City of Loveland, CO
+
+Multiple summer concert opportunities. No public application portals — direct outreach required. **Lineups are booked in late winter/early spring, so now is the right time.**
+
+**Foote Lagoon Summer Concert Series** — Thu evenings July-Aug at Foote Lagoon Amphitheater (500 E 3rd St), ~300 seats, free. City-run through Cultural Services / Rialto Theater. Contact: (970) 962-2120, RialtoT@cityofloveland.org.
+
+**Wednesday Night Concerts / One Sweet Summer** — Wed evenings June-Aug at The Foundry Plaza downtown. Free. Run by Loveland Downtown District. Contact: (970) 699-2856. [downtownloveland.org](https://www.downtownloveland.org/the-foundry-events/wednesday-night-concerts).
+
+**Sounds of Centerra** — Free Fri concerts in July at Chapungu Sculpture Park (private development). [centerra.com/sounds](https://www.centerra.com/sounds/).
+
+Next Action:
+
+- [ ] Call/email Rialto Theater (970-962-2120, RialtoT@cityofloveland.org) about Foote Lagoon series.
+- [ ] Call Loveland Downtown District (970-699-2856) about Wednesday Night Concerts.
+
 ## Past
 
 **Punch Bowl Social, Denver, CO**
@@ -115,6 +146,12 @@ These are on the radar but something is unclear (limited booking info, vague fit
 
 **New Belgium Brewery** - Fort Collins, CO. [newbelgium.com](https://www.newbelgium.com/visit/fort-collins/). 500 Linden St. Summer concert series through Washington's Presents. Casual, community-focused. Borderline on "south Fort Collins" constraint. Contact: 970-221-0524.
 
+**City of Berthoud** - Small town between Longmont and Loveland. Has a free summer concert series (Concerts in the Pioneer Courtyard, June-Aug) plus Berthoud Day and Oktoberfest. Small scale, no formal booking process. Contact Berthoud Historical Society or Chamber of Commerce.
+
+**City of Broomfield** - Summer Concert Series, 6 free Wed evening concerts curated by Arts & History division. Also Great American Picnic (July 4th). Contact: 303-469-3301. [broomfield.org/summerconcerts](https://broomfield.org/summerconcerts).
+
+**City of Arvada** - Multiple options: Arvada Center Summer Concerts (national touring acts), free Thu nights at McIlvoy Park (5750 Upham St), and Arvada Summerfest (performer applications deadline May 20, 2026). Contact: 720-898-7200. [arvadaco.gov/events](https://www.arvadaco.gov/1201/Events).
+
 ### Not Ready
 
 Good venues but we need to grow before approaching these.
@@ -132,33 +169,7 @@ Good venues but we need to grow before approaching these.
 These are prospects from Elliot and Cheyenne being sorted into categories above.
 
 
-### Cities/Municipal
-
-**City of Loveland**
-
-**City of Louisville**
-
-**City of Berthoud**
-
-**City of Breck**
-
-**City of Broomfield**
-
-**City of Arvada**
-
-**City of Greeley**
-
-**City of Fort Collins**
-
-**City of Cheyenne**
-
-**City of Aurora**
-
 ### Festivals/Events
-
-**Louisville Street Faire Downtown**
-
-**Downtown Concert Series Longmont** - downtownlongmont.com
 
 **Dairy Arts Events** - They will be interested to hear about our full mission statement and creative inspirations. Contact: <glenn@thedairy.org>
 
@@ -175,3 +186,13 @@ Good venues but outside our location constraints.
 **Wild Goose Saloon** - Parker, CO. [wildgoosesaloon.com](https://www.wildgoosesaloon.com). Premier live music venue with line dancing, BBQ, whiskey. Books tributes and diverse acts — good country fit. Contact: (720) 766-8449, bookings@wildgooseparker.com.
 
 **The Press** - Steamboat Springs, CO. [thepresssteamboat.com](https://thepresssteamboat.com/). "Austin club in the mountains" vibe, active live music venue. 3-hour drive. Contact: (970) 879-1292, Ed@thepresssteamboat.com.
+
+**City of Breck** — Breckenridge, too far west.
+
+**City of Greeley** — Too far north/east.
+
+**City of Cheyenne** — Wyoming, too far north.
+
+**City of Fort Collins** — Multiple concert series (Live at The Gardens, Thursday Night Live/Bohemian Nights, FoCo POP) but Old Town location is north of "south Fort Collins" constraint.
+
+**City of Aurora** — Southeast of Denver, outside location constraints. Has Aurora Rhythms monthly concerts and Aurora Fest with Artist Interest form.
