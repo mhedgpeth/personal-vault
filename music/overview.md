@@ -1,5 +1,10 @@
 # Overview
 
+Friends in High Places
+contact: <Fihpband@gmail.com>
+
+## Goals
+
 Top three goals right now:
 
 - [ ] Practice with moises so my acoustic guitar and vocals are solid.
