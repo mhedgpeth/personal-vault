@@ -1,3 +1,0 @@
-# song-strawberry-wine
-
-TBD

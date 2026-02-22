@@ -1,2 +1,3 @@
-# personal-vault
-Personal notes
+# Personal
+
+See [memory](CLAUDE.md).
