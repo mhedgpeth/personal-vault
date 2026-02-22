@@ -50,7 +50,39 @@ Next Action:
 **Punch Bowl Social, Denver, CO**
 The band didn't like this venue, we don't want to do it anymore.
 
-## Not Ready Yet
+## Potential
+
+### Next
+
+These are promising venues with good info — we're just limiting WIP before reaching out.
+
+**Jamestown Mercantile** - Jamestown, CO. [jamestownmercantile.com](https://www.jamestownmercantile.com/calendar). Small mountain cafe, intimate/rustic vibe. Open mic on Wednesdays. People at the Outback told us about this. Contact: (303) 442-5847, jamestownmercantilecafe@gmail.com.
+
+**Spirits Music Hall** - Johnstown, CO. [spiritsmusichall.com](https://spiritsmusichall.com/). Gothic-themed tavern with BBQ and craft cocktails. Books country/rockabilly explicitly. Contact: (970) 660-8527, booking@spiritsmusichall.com.
+
+**Bootstrap Brewing** - Longmont, CO. [bootstrapbrewing.com](https://bootstrapbrewing.com/). Live music Fri & Sat 6-9pm, no cover. Community-focused, casual. Contact: 720-438-8488.
+
+### Possible
+
+These are on the radar but something is unclear (limited booking info, vague fit, etc.).
+
+**Gold Hill Inn** - Gold Hill, CO. [goldhillinn.com](https://www.goldhillinn.com/music/). Books live music in Beer Garden & Barroom, but genre skews Americana/Bluegrass/Folk — unclear if 90's country covers fit. People said if we play the store first (just Annie and me) we'll be able to get more. Contact: 303.443.6461.
+
+**KGNU** - Boulder, CO. [kgnu.org](https://kgnu.org/amplifying-community/). Community radio station building a new performance space at 1720 14th St. Still in planning/construction — not booking yet.
+
+**Roots Music Project** - Boulder, CO. [rootsmusicproject.org](https://www.rootsmusicproject.org). Nonprofit community venue, 1000+ artists/year. Roots/country/folk/Americana focus. Not a bar, no dancing — may not draw our crowd. Artists submit booking applications on website. Contact: 720.727.7794.
+
+**Mountain Sun** - Boulder, CO. [mountainsunpub.com](https://www.mountainsunpub.com). Brewpub at 1535 Pearl St. Free live music Friday nights. Genres lean bluegrass/funk/jam/jazz/reggae — country fit unclear. Contact: (303) 546-0886, mtnsun@mountainsunpub.com.
+
+**Appaloosa Grill** - Denver, CO. [appaloosagrill.com](https://appaloosagrill.com/music/). 535 16th St. Nightly live music 9pm-midnight, free. Genre skews blues/rock/soul. Need EPK (Electronic Press Kit) first.
+
+**In The Zone** - Golden, CO. [inthezonebar.com](https://www.inthezonebar.com). Sports bar with 5,000 sq ft patio and covered outdoor stage. Weekend live music. Casual vibe. Facebook: Diana Rowe.
+
+**Brewability** - Englewood, CO. [brew-ability.com](https://www.brew-ability.com/). Social enterprise brewery, live music Thu-Sat. Books through open mic auditions on Wednesdays. Ask Tone for Murat for booking info.
+
+**Odyssey Beerworks** - Arvada, CO. [odysseybeerwerks.com](https://odysseybeerwerks.com/). Brewery taproom, hosts live music but programming unclear. 21+ only. Contact: 303-421-0772, rebecca@odysseybeerworks.com.
+
+### Not Ready
 
 Good venues but we need to grow before approaching these.
 
@@ -60,61 +92,12 @@ Good venues but we need to grow before approaching these.
 
 **Dierks Whiskey Row** - Denver, CO. [dierkswhiskeyrow.com](https://dierkswhiskeyrow.com/denver-co/). 22k sq ft country bar, live music Thu-Sun.
 
-## Potential
+**Dirty Dogs Roadhouse** - Golden, CO. [dirtydogsroadhouse.net](https://dirtydogsroadhouse.net/). Three stages including one of the largest outdoor stages in Colorado. Local and national bands, casual/family-friendly roadhouse vibe. Contact: (303) 384-3644, Dirtydogsroadhouse@aol.com.
 
-These are prospects from Elliot and Cheyenne, and haven't been validated yet.
+### Migrating
 
-### Venues
+These are prospects from Elliot and Cheyenne being sorted into categories above.
 
-**Jamestown Mercantile**: people at the Outback told us about this, website is: [https://www.jamestownmercantile.com/calendar]. They have an open mic on Wednesdays.
-
-**Gold Hill Inn** - people have mentioned this to us, they said if we play the store first, just Annie and me, we'll be able to get more, website is: [https://www.goldhillinn.com/music/]. They don't have any shows booked currently.
-
-**KGNU** - has a new venue and I'm not sure what its status is [https://kgnu.org/amplifying-community/]
-
-**Alamo Drafthouse**
-
-**Santo Boulder** - No longer doing live music.
-
-**Boulder Roadhouse**
-
-**Mountain Sun**
-
-**Roots Music**
-
-**Appaloosa Bar** - Need EPK first.
-
-**Lincoln's Roadhouse** - Contact through website form.
-
-**Swallow Hill** - Only interested in Folk/Americana. Contact: <bruce@swallowhillmusic.org>
-
-**Larimer Lounge** - Need to guarantee draw.
-
-**Soiled Dove Underground** - Contact: Rhett Lee, <booking@soileddove.com>
-
-**In The Zone** - Facebook: Diana Rowe.
-
-**Dirty Dogs**
-
-**Spirits Music Hall** - Contact: <booking@spiritsmusichall.com>
-
-**105 West Brewing** - On website.
-
-**Viewhouse Centennial** - Contact: <hello@viewhouse.com>, (303) 260-7001.
-
-**Brewability** - Ask Tone for Murat for booking info.
-
-**Bootstrap Brewing** - Contact through website form.
-
-**Wild Goose Saloon** - Contact: <bookings@wildgooseparker.com>
-
-**Speakeasy** - Ask Tone for a recommendation.
-
-**Odyssey Beerworks** - Contact: <rebecca@odysseybeerworks.com>
-
-**Herb's Hideout**
-
-**Junkyard Social**
 
 **Illegal Pete's (Pearl)**
 
@@ -180,3 +163,13 @@ These are prospects from Elliot and Cheyenne, and haven't been validated yet.
 **Dairy Arts Events** - They will be interested to hear about our full mission statement and creative inspirations. Contact: <glenn@thedairy.org>
 
 **Pearl Street Arts Fest** - Contact: <info@downtownboulder.org>
+
+## Out of Range
+
+Good venues but outside our location constraints.
+
+**105 West Brewing** - Castle Rock, CO. [105westbrewing.com](https://www.105westbrewing.com/). Castle Rock's largest live music venue, Sat nights & Sun afternoons. Veteran-owned craft brewery. Contact: (303) 325-7321.
+
+**Viewhouse Centennial** - Centennial, CO. [viewhouse.com](https://www.viewhouse.com/events-centennial). 20,000+ sq ft with patio and bandstand. Has a dedicated "Country on the Courtyard" Thu night series and Country & Bluegrass Concert Series — perfect genre fit. Contact: (303) 790-8440, hello@viewhouse.com.
+
+**Wild Goose Saloon** - Parker, CO. [wildgoosesaloon.com](https://www.wildgoosesaloon.com). Premier live music venue with line dancing, BBQ, whiskey. Books tributes and diverse acts — good country fit. Contact: (720) 766-8449, bookings@wildgooseparker.com.

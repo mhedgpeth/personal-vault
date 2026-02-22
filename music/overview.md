@@ -28,6 +28,26 @@ Top three goals right now:
 - [x] Discover minimum for people getting paid ($200 total, $100 each to Will and Elliott, everyone else is willing to play for free right now)
 - [ ] Contact Outback Saloon
 
+## Electronic Press Kit (EPK)
+
+**Goal:** Create an EPK so we can professionally pitch to venues that require one.
+
+An EPK typically includes:
+- Band bio / story
+- Photos (promo shots, live performance)
+- Music samples or video clips
+- Song list / set list
+- Contact info
+- Press quotes or testimonials (if available)
+
+**Status:** Not started.
+
+- [ ] Decide on format (website page, PDF, or both)
+- [ ] Write band bio
+- [ ] Gather/take promo photos
+- [ ] Record demo audio or video clips
+- [ ] Assemble and publish EPK
+
 ## Art Direction
 
 **Goal:** songs selected, practiced that will fit the band together in a single artistic outcome, that gets us bookings.
