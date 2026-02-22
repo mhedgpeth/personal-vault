@@ -164,17 +164,6 @@ Good venues but we need to grow before approaching these.
 
 **Dirty Dogs Roadhouse** - Golden, CO. [dirtydogsroadhouse.net](https://dirtydogsroadhouse.net/). Three stages including one of the largest outdoor stages in Colorado. Local and national bands, casual/family-friendly roadhouse vibe. Contact: (303) 384-3644, Dirtydogsroadhouse@aol.com.
 
-### Migrating
-
-These are prospects from Elliot and Cheyenne being sorted into categories above.
-
-
-### Festivals/Events
-
-**Dairy Arts Events** - They will be interested to hear about our full mission statement and creative inspirations. Contact: <glenn@thedairy.org>
-
-**Pearl Street Arts Fest** - Contact: <info@downtownboulder.org>
-
 ## Out of Range
 
 Good venues but outside our location constraints.
