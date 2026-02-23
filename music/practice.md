@@ -10,36 +10,21 @@ Using iPad if needed, or [full setup](./equipment.md) if needed.
 
 ## Getting Songs into Moises
 
-Goal: High fidelity (FLAC/lossless) source files for best stem separation in Moises.
-
-### Setup (~$25-30 one-time, ~$10/yr ongoing)
-
-- [x] **Usenet block account:** [Usenet.Farm](https://usenet.farm) — 10GB trial active. 500GB block ~$17 when ready.
-- [ ] **NZB indexer:** [NZBGeek](https://nzbgeek.info) — $12/yr. No invite needed, good Lidarr integration, active community.
-- [ ] **Docker Compose** with [Lidarr](https://lidarr.audio) + [SABnzbd](https://sabnzbd.org) on Mac. Config stored in iCloud for backup. Compose file lives outside this repo.
-- [ ] **Import** downloaded FLAC files into Moises. Use Hi-Fi stem separation (included with Pro).
-
-### Workflow
-
-1. Add artist/album in Lidarr, set quality profile to FLAC
-2. Lidarr searches indexer, sends download to SABnzbd
-3. SABnzbd downloads and Lidarr organizes into music library
-4. Import from music library into Moises
+See [moises.md](./moises.md) for the workflow to get songs into Moises.
 
 ### Current Target: Duo Set Songs
 
 From [duo set](./sets/duo.md):
 
-- [ ] Jackson (Johnny Cash & June Carter)
-- [ ] Ain't Goin' Down (Garth Brooks)
-- [ ] Strawberry Wine (Deana Carter)
-- [ ] Rodeo (Garth Brooks)
-- [ ] Cowboy Take Me Away (Dixie Chicks)
-- [ ] You Never Even Called Me by My Name (David Allan Coe)
-- [ ] Jolene (Dolly Parton)
-- [ ] The Dance (Garth Brooks)
+- [x] Jackson (Johnny Cash & June Carter)
+- [x] Ain't Goin' Down (Garth Brooks)
+- [x] Strawberry Wine (Deana Carter)
+- [x] Rodeo (Garth Brooks)
+- [x] Cowboy Take Me Away (Dixie Chicks)
+- [x] You Never Even Called Me by My Name (David Allan Coe)
+- [x] Jolene (Dolly Parton)
+- [x] The Dance (Garth Brooks)
 - [ ] Mercedes Benz (Janis Joplin) - a capella, may not need
-- [ ] If Your Heart Aint Busy Tonight (Tanya Tucker)
-- [ ] Islands in the Stream (Dolly Parton & Kenny Rogers)
-- [ ] Friends in Low Places (Garth Brooks)
-
+- [x] If Your Heart Aint Busy Tonight (Tanya Tucker)
+- [x] Islands in the Stream (Dolly Parton & Kenny Rogers)
+- [x] Friends in Low Places (Garth Brooks)
