@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@stephendolan/ynab-cli": "^2.5.0"
+  }
+}

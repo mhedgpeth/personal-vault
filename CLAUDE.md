@@ -6,3 +6,4 @@ This is the personal repository for Michael Hedgpeth.
 
 - `music`: for Friends in High Places, our 90's cover country band
 - `fitness`: for workouts and diet
+- `money`: for budgeting with YNAB
